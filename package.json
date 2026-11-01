@@ -2,6 +2,6 @@
   "name": "random-reels",
   "version": "1.0.0",
   "private": true,
-  "scripts": { "start": "node index.js" },
+  "scripts": { "start": "node index_GitHub.js" },
   "engines": { "node": ">=18" }
 }
